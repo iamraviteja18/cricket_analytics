@@ -12,3 +12,7 @@ Here Linear Regression, Multiple Linear Regression were tried to see if the mode
 4) IPL 2020 Predicitions-Matchday ML.ipynb: In this project I have used the data that I have scrapped from various sources to build a Supervised Machine Learning Model (Random Forest) to predict match winner in IPL 2020,
 I have made two models to identify winner (i) Pre-toss Prediction (ii) Post-toss Prediction , considering certain factors that will add up after toss like (toss won by, toss decision) to improvise the ability to predict accurately,
 I have also done Parameter Tuning to increase accuracy of the model (f-score of this model is 78.69)
+
+
+for data you can visit https://stats.espncricinfo.com/ci/engine/stats/index.html or you can contact me for data that i used or simple scrapers using python (ravitejarajavarapu515@gmail.com)
+Thanks you :)
