@@ -1,6 +1,6 @@
 # cricket_analytics
 The projects in this folder are done by Ravi Teja Rajavarapu (ravitejarajavarapu515@gmail)
-1) This is a project to identify the best One Day International Cricketers among Fab4 (Virat Kohli, Steven Smith, Joe Root, Kane Williamson) and also Rohit Sharma data for all these cricketers have been scrapped from StatGuru API (Espncricinfo) based on the requirements, this project is all about the comparative analysis between players. The major part and most time-consuming process in this project is data cleaning, there were so many aspects to be taken care of. Visualization of the data after the analysis is also done in this project
+1) This is a project to identify the best One Day International Cricketers among Fab4 (Virat Kohli, Steven Smith, Joe Root, Kane Williamson) and also Rohit Sharma, data for all these cricketers have been scrapped from StatGuru API (Espncricinfo) based on the requirements, this project is all about the comparative analysis between players. The major part and most time-consuming process in this project is data cleaning, there were so many aspects to be taken care of. Visualization of the data after the analysis is also done in this project
 
 2) Virat Kohli.pdf: This project is to analyze Virat Kohli's ODI stats, types of dismissals, consistency in maintaining averages,his conversion rate from 50's to 100's and bowlers who dismissed him the most were all visualized in graphical way. (If there's any problem in loading the graphs, try to download the pdf for better vision)
 
