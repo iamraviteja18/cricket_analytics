@@ -1,5 +1,5 @@
 # ML Web-APP
-Here is my ML Web-App link bit.ly/iplpredictionswebapp
+Here is my ML Web-App link https://bit.ly/iplpredictionswebapp
 
 # cricket_analytics
 The projects in this folder are done by Ravi Teja Rajavarapu (ravitejarajavarapu515@gmail)
